@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Bill",
+    "strength": 10,
+    "dexterity": 12,
+    "constitution": 13,
+    "intelligence": 15,
+    "wisdom": 9,
+    "charisma": 10
+  },
+  {
+    "name": "joe",
+    "strength": 10,
+    "dexterity": 12,
+    "constitution": 13,
+    "intelligence": 15,
+    "wisdom": 9,
+    "charisma": 10
+  },
+  {
+    "name": "smith",
+    "strength": 10,
+    "dexterity": 12,
+    "constitution": 13,
+    "intelligence": 15,
+    "wisdom": 9,
+    "charisma": 10
+  },
+  {
+    "name": "Jerem",
+    "stats": [
+      {
+        "name": "strength",
+        "value": 10
+      },
+      {}
+    ]
+  }
+]
+
